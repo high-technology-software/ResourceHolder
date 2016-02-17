@@ -1,7 +1,9 @@
 package com.high_technology_software.framework;
 
+import java.io.IOException;
+import java.io.InputStream;
 import java.util.Locale;
-import java.util.ResourceBundle;
+import java.util.Properties;
 
 public class ResourceHolder {
 
